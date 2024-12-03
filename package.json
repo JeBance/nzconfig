@@ -1,0 +1,29 @@
+{
+  "name": "nzconfig",
+  "version": "1.0.0",
+  "description": "Class for working with a configuration file",
+  "keywords": [
+    "class",
+    "config",
+    "nz"
+  ],
+  "author": {
+    "name": "Oleg Prudkov",
+    "email": "oleg.prudkov@gmail.com",
+    "url": "https://jebance.github.io"
+  },
+  "main": "index.js",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeBance/nzconfig"
+  },
+  "license": "LGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/JeBance/nzconfig/issues"
+  },
+  "homepage": "https://jebance.github.io/nzconfig/",
+  "dependencies": {
+    "nzfunc": "^1.0.0"
+  }
+}
